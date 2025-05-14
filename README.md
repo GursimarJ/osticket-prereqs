@@ -3,13 +3,14 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This is a walkthrough/tutorial that outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This is a walkthrough/tutorial that outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. At the end of this walkthrough, we will have a admin/analyst login page and a end users osTicket URL.<br />
 
 
 <h2>Environments Used</h2>
 
-- Microsoft Azure 
-- Windows 10
+- Microsoft Azure
+- macOS (Host Machine)
+- Windows 10 (Virtual Machine)
 - Windows App (Remote Desktop)
 - Internet Information Services (IIS)
 
@@ -50,7 +51,7 @@ Use Windows App(Remote Desktop) to log in to the new VM we created
 </p>
 <br />
 <p>
-Download the following: osTicket-Installation-Files.zip<br />
+Download the following: osTicket-Installation-Files.zip -> (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- It contains all the necessary files to install osTicket and some of its dependencies
 </p>
 
