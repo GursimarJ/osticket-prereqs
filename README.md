@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This is a walkthrough/tutorial that outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. At the end of this walkthrough, we will have a admin/analyst login page and a end users osTicket URL.<br />
+This is a walkthrough/tutorial that outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. At the end of this walkthrough, we will have an admin/analyst login page and an end users osTicket URL.<br />
 
 
 <h2>Environments Used</h2>
